@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sushreet 👋
 
-<!--
-**Sushreet-o/Sushreet-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student and aspiring Software Engineer.
 
-Here are some ideas to get you started:
+I enjoy building practical software and web applications while continuously improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+* 🎓 Studying Computer Systems Engineering
+* 💻 Interested in Software Engineering and Full-Stack Development
+* 🌱 Currently improving my skills in C#, JavaScript, databases, and web development
+* 🚀 Currently working on **PriceQ**, a price comparison platform for e-commerce websites
+* 🎯 Goal: Become a professional Software Engineer
+
+### 💻 Languages
+
+Python · C# · JavaScript · PHP · HTML · CSS
+
+---
+
+⭐ Always learning, building, and improving.
